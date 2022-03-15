@@ -1,4 +1,4 @@
-# MartianMarket
+# Martian Market
 
 ## Summary
 
